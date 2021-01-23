@@ -1,5 +1,5 @@
-# angolackers-academy &lt;Academy_Hackers/&gt;
-![]()
+# angolackers-academy - &lt;Academy_Hackers/&gt;
+![logo-angolackers](04.png)
 
     a Academy Hackers (Angolackers) é um colectivo
     de estudantes angolanos de  TI..
@@ -20,5 +20,5 @@
 
 ---
 
-&copy; 2021 [Academy Hackers (angolan)](#)
+&copy; 2021 [Academy Hackers (angolan)](#) \
 &copy; 2021 [Angolackers](#)
