@@ -21,7 +21,7 @@
 ---
 ## Repositórios Disponíveis
 
-- [Mensageiro Privado (source)](/msg)
+- [Mensageiro Privado (source)](https://github.com/Angolackers-Academy/msg)
 - [Mensageiro Privado (online)](https://angolackers-academy.github.io/msg)
 
 ---
