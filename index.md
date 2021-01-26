@@ -1,4 +1,4 @@
-# Angolackers-Academy - Academy_Hackers
+# Angolackers-Academy | Academy_Hackers
 ![logo-angolackers](04.png)
 
     a Academy Hackers (Angolackers) é um colectivo
