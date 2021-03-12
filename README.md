@@ -20,5 +20,5 @@
 
 ---
 
-&copy; 2021 [Academy Hackers (angolan)](#) \
-&copy; 2021 [Angolackers](#)
+&copy; 2021 ***Academy Hackers (angolan)*** \
+&copy; 2021 ***Angolackers***
