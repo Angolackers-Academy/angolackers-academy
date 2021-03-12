@@ -19,12 +19,6 @@
     de seu país..
 
 ---
-## Repositórios Disponíveis
-
-- [Mensageiro Privado (source)](https://github.com/Angolackers-Academy/msg)
-- [Mensageiro Privado (online)](https://angolackers-academy.github.io/msg)
-
----
 
 &copy; 2021 [Academy Hackers (angolan)](#) \
-&copy; 2021 [Angolackers](#)
+&copy; 2021 [Angolackers](https://github.com/Angolackers-Academy)
